@@ -1,0 +1,27 @@
+p {
+  font-family: Lato;
+  color: #ff0230;
+}
+button {
+  padding: 8px;
+  margin: 10px;
+  border: 1px solid chocolate;
+  background: rgb(209, 184, 166);
+
+  border-radius: 5px;
+}
+
+.scrollable-menu {
+  height: auto;
+  max-height: 300px;
+  overflow: auto;
+}
+
+.menu-highlighted {
+  font-weight: bold;
+}
+textarea {
+  border-style: inset;
+  border-width: 0.2px;
+  padding: 10px;
+}
